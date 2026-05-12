@@ -1,2 +1,3 @@
 # aamc-qa
-testing git 
+This is my Git repository
+Auther --Pankaj
